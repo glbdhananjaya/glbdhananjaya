@@ -3,7 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="hello dude!" /> </p>
 
 # 👦🏽 About Me 
-I'm Bhashitha Dhananjaya and I'm a Software Engineering undergraduate. I really enjoying in coding, learning frameworks, UI/UX and making sofwares.
+I am a dedicated software engineer with a First-Class Honors degree in Software Engineering and currently pursuing a Master of Applied Technologies in
+Computing. With experience ranging from intern to senior roles, I have developed expertise in MS Power Platform, Java, Next.js, and more. At OneFrame Ltd, I
+develop applications using Power Apps and Power Automate, while my previous role at Bistec Global Services involved leading teams, mentoring developers, and
+working on AI-based R&D projects. I am passionate about problem-solving and continuously advancing my skills to deliver innovative, high-quality solutions.
 
 - 🌱 I’m currently learning Everything 😊
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhashitha12/)
